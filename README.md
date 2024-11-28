@@ -11,12 +11,11 @@ on the Admin interface they have the control on user data that they can know whe
 
 steps to access 
 
-1. click on link: https://vrv-frontend-alpha.vercel.app/
-2. Then click on HRMS Button
-3. in Sign In page Login ID: User1@    ,    Password: 1111
-4. then there will be a Admin Button on Sign In Page click on it and login to Admin Page
-5. Admin Login : admintest    ,   Password: 1234
-6. Further more go through the page according to it remember user can Time-in before 10:15am and can Time-out after 18:20 otherwise actions are not allowed.
+1. This is  HRMS App (Based on Role-Based Access Control)
+2. in Sign In page Login ID: User1@    ,    Password: 1111
+3. then there will be a Admin Button on Sign In Page click on it and login to Admin Page
+4. Admin Login : admintest    ,   Password: 1234
+5. Further more go through the page according to it remember user can Time-in before 10:15am and can Time-out after 18:20 otherwise actions are not allowed.
 
 
 ### Quick Start
@@ -25,7 +24,6 @@ Install RBAC UI by running either of the following:
 
 - Install NodeJS LTS from [NodeJs Official Page]
 
-can access the GitHub repository from link: https://github.com/imwill08/vrv-frontend.git
 
 Run in terminal this command:
 
